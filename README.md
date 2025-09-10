@@ -17,3 +17,9 @@ It was created for learning purposes and as part of a technical club task.
 ## How to Run
 1. Clone this repo or download the code.
 2. Open index.html in a browser, OR run with Live Server in VS Code.
+
+## 🌐 Deployment
+👉 Live demo: https://moonlit-vacherin-065131.netlify.app/
+
+
+
